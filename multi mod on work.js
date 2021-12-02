@@ -2,7 +2,7 @@
 // @name           Multi mod
 // @namespace      https://www.youtube.com/channel/UCTG2PIyB2Y8oSBqNduqWJ0A
 // @version        Private beta v1
-// @description    Stacked Insta, Good Heal, Anti Clown Anti-invisible buildings
+// @description    Stacked Insta, Good Heal, Anti Clown Anti-invisible buildings delete button for river servers
 // @author         DEADHACKS & HackPD
 // @match          *://moomoo.io/*
 // @match          *://
@@ -14,6 +14,7 @@
 // @require https://ksw2-center.glitch.me/users/fzb/antiinvis_1
 // @require      https://cdn.jsdelivr.net/npm/msgpack-lite@0.1.26/dist/msgpack.min.js
 // @require      https://cdn.jsdelivr.net/npm/fontfaceobserver@2.1.0/fontfaceobserver.standalone.min.js
+// @require      https://github.com/amadu123/moomoo.io-hacks/raw/main/River%20Glitch.txt
 // @icon          https://github.com/amadu123/hac/blob/main/hack%20pandemic.png?raw=true
 
 //KeyBinds: R For insta, ' to change insta speed, spacebar for spike insta, U for age one insta, L for bow insta, ESC for menu, [ for auto heal on or off
@@ -2218,6 +2219,10 @@ else
     }
 
 confirm("are you sure you want to use this mod?");
+
+
+
+
 
 
 
